@@ -18,9 +18,8 @@ $(document).ready(function() {
 		header: {
     		left:   'title',
     		center: '',
-    		right:  'today agendaDay,agendaWeek,month prev,next'
+    		right:  'today month prev,next'
 		},
-		defaultView: 'agendaWeek',
 		firstHour: 8,
 		weekMode: 'variable',
 		aspectRatio: 2,
